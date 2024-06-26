@@ -64,6 +64,10 @@ nav button:last-child {
     cursor: pointer;
 }
 
+nav button:last-child a {
+    color: white;
+}
+
 nav button:first-child {
     width: 86px;
     height: 36px;
